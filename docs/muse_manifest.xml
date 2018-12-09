@@ -1,57 +1,58 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cmw-site.org" resolutions="1x" timestamp="1514827892007">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cmw-site.org" resolutions="1x" timestamp="1544385857285">
   <folder name="css">
     <file name="site_global.css" crc="4115228098"/>
-    <file name="master_a-master.css" crc="92376086" ref="about-us:location:lodging:overview-:photos:invitation:index:register:schedule-"/>
-    <file name="nomq_preview_master_a-master.css" crc="85284053" ref="about-us:location:lodging:overview-:photos:invitation:index:register:schedule-"/>
-    <file name="about-us.css" crc="401390985" ref="about-us"/>
-    <file name="nomq_about-us.css" crc="350022261" ref="about-us"/>
-    <file name="location.css" crc="3822270723" ref="location"/>
-    <file name="nomq_location.css" crc="3900901093" ref="location"/>
-    <file name="lodging.css" crc="4059090530" ref="lodging"/>
-    <file name="nomq_lodging.css" crc="4252691511" ref="lodging"/>
-    <file name="overview-.css" crc="3876307965" ref="overview-"/>
-    <file name="nomq_overview-.css" crc="152945844" ref="overview-"/>
-    <file name="photos.css" crc="4002734819" ref="photos"/>
-    <file name="nomq_photos.css" crc="159600420" ref="photos"/>
-    <file name="invitation.css" crc="4151151498" ref="invitation"/>
-    <file name="nomq_invitation.css" crc="12438735" ref="invitation"/>
-    <file name="index.css" crc="4150192867" ref="index"/>
-    <file name="nomq_index.css" crc="3834437495" ref="index"/>
-    <file name="register.css" crc="3920476570" ref="register"/>
-    <file name="nomq_register.css" crc="107283222" ref="register"/>
-    <file name="schedule-.css" crc="4154212353" ref="schedule-"/>
-    <file name="nomq_schedule-.css" crc="4100628232" ref="schedule-"/>
+    <file name="master_a-master.css" crc="4163733578" ref="location:overview-:schedule-:photos:invitation:register:index:lodging:about-us"/>
+    <file name="nomq_preview_master_a-master.css" crc="4190869263" ref="location:overview-:schedule-:photos:invitation:register:index:lodging:about-us"/>
+    <file name="location.css" crc="247046292" ref="location"/>
+    <file name="nomq_location.css" crc="343215624" ref="location"/>
+    <file name="overview-.css" crc="193070719" ref="overview-"/>
+    <file name="nomq_overview-.css" crc="3823228974" ref="overview-"/>
+    <file name="schedule-.css" crc="285790780" ref="schedule-"/>
+    <file name="nomq_schedule-.css" crc="4138528122" ref="schedule-"/>
+    <file name="photos.css" crc="4044290104" ref="photos"/>
+    <file name="nomq_photos.css" crc="4280892186" ref="photos"/>
+    <file name="invitation.css" crc="121483651" ref="invitation"/>
+    <file name="nomq_invitation.css" crc="171917350" ref="invitation"/>
+    <file name="register.css" crc="267867332" ref="register"/>
+    <file name="nomq_register.css" crc="3776244919" ref="register"/>
+    <file name="index.css" crc="4152521384" ref="index"/>
+    <file name="nomq_index.css" crc="452775285" ref="index"/>
+    <file name="lodging.css" crc="219885830" ref="lodging"/>
+    <file name="nomq_lodging.css" crc="471665248" ref="lodging"/>
+    <file name="about-us.css" crc="12256176" ref="about-us"/>
+    <file name="nomq_about-us.css" crc="3979603415" ref="about-us"/>
   </folder>
   <folder name="assets">
-    <file name="cmw18registration.pdf" crc="3815374840" seo="true" mt="1512588301000"/>
+    <file name="cmw18registration.pdf" crc="4190745574" seo="true" mt="1543445584000"/>
+    <file name="cmw19registration.pdf" crc="471695614" seo="true" mt="1543445715000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:overview-:invitation:schedule-:lodging:location:register:about-us:photos"/>
-    <file name="museutils.js" crc="3803043152" ref="index:overview-:invitation:schedule-:lodging:location:register:about-us:photos"/>
+    <file name="museutils.js" crc="340535759" ref="index:overview-:invitation:schedule-:lodging:location:register:about-us:photos"/>
     <file name="whatinput.js" crc="86476730" ref="index:overview-:invitation:schedule-:lodging:location:register:about-us:photos"/>
-    <file name="museconfig.js" crc="380897831" ref="index:overview-:invitation:schedule-:lodging:location:register:about-us:photos"/>
-    <file name="jquery.musemenu.js" crc="3784699396" ref="index:overview-:invitation:schedule-:lodging:location:register:about-us:photos"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:overview-:invitation:schedule-:lodging:location:register:about-us:photos"/>
-    <file name="webpro.js" crc="242022427" ref="index:overview-:invitation:schedule-:lodging:location:register:about-us:photos"/>
-    <file name="musewpslideshow.js" crc="457073769" ref="index:overview-:invitation:schedule-:lodging:location:register:about-us:photos"/>
-    <file name="jquery.museoverlay.js" crc="483674903" ref="index:overview-:invitation:schedule-:lodging:location:register:about-us:photos"/>
-    <file name="touchswipe.js" crc="4066113679" ref="index:overview-:invitation:schedule-:lodging:location:register:about-us:photos"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:overview-:invitation:schedule-:lodging:location:register:about-us:photos"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:overview-:invitation:schedule-:lodging:location:register:about-us:photos"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:overview-:invitation:schedule-:lodging:location:register:about-us:photos"/>
+    <file name="webpro.js" crc="4059564322" ref="index:overview-:invitation:schedule-:lodging:location:register:about-us:photos"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index:overview-:invitation:schedule-:lodging:location:register:about-us:photos"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index:overview-:invitation:schedule-:lodging:location:register:about-us:photos"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index:overview-:invitation:schedule-:lodging:location:register:about-us:photos"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:overview-:invitation:schedule-:lodging:location:register:about-us:photos"/>
-    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:overview-:invitation:schedule-:lodging:location:register:about-us:photos"/>
-    <file name="require.js" crc="4157109226" ref="index:overview-:invitation:schedule-:lodging:location:register:about-us:photos"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:overview-:invitation:schedule-:lodging:location:register:about-us:photos"/>
+    <file name="require.js" crc="7928878" ref="index:overview-:invitation:schedule-:lodging:location:register:about-us:photos"/>
   </folder>
   <folder name="images">
     <file name="favicon.ico" crc="492783890" ref="index"/>
-    <file name="imgbanner1.jpg" crc="4278852098" seo="true" ref="index:overview-:invitation:schedule-:lodging:location:register:about-us:photos">
-      <caption webpage="photos" alt=""/>
+    <file name="banner-4.jpg" crc="4030078374" seo="true" ref="index:overview-:invitation:schedule-:lodging:location:register:about-us:photos">
       <caption webpage="register" alt=""/>
-      <caption webpage="overview-" alt=""/>
       <caption webpage="location" alt=""/>
       <caption webpage="lodging" alt=""/>
-      <caption webpage="invitation" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="about-us" alt=""/>
+      <caption webpage="overview-" alt=""/>
       <caption webpage="schedule-" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="photos" alt=""/>
+      <caption webpage="invitation" alt=""/>
+      <caption webpage="about-us" alt=""/>
     </file>
     <file name="arrowmenudown.png" crc="262559161" ref="index">
       <caption webpage="index" alt=""/>
@@ -61,22 +62,17 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="imgrachmainoff486x334.jpg" crc="162707627" seo="true" ref="index">
+    <file name="imgbrahms1.jpg" crc="519363427" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="facebook.png" crc="3852252585" seo="true" ref="index:overview-:invitation:schedule-:lodging:location:register:about-us:photos">
-      <caption webpage="photos" alt=""/>
-      <caption webpage="photos" alt=""/>
-      <caption webpage="photos" alt=""/>
-      <caption webpage="photos" alt=""/>
       <caption webpage="register" alt=""/>
       <caption webpage="register" alt=""/>
       <caption webpage="register" alt=""/>
       <caption webpage="register" alt=""/>
-      <caption webpage="overview-" alt=""/>
-      <caption webpage="overview-" alt=""/>
-      <caption webpage="overview-" alt=""/>
-      <caption webpage="overview-" alt=""/>
       <caption webpage="location" alt=""/>
       <caption webpage="location" alt=""/>
       <caption webpage="location" alt=""/>
@@ -85,75 +81,74 @@
       <caption webpage="lodging" alt=""/>
       <caption webpage="lodging" alt=""/>
       <caption webpage="lodging" alt=""/>
-      <caption webpage="invitation" alt=""/>
-      <caption webpage="invitation" alt=""/>
-      <caption webpage="invitation" alt=""/>
-      <caption webpage="invitation" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
+      <caption webpage="overview-" alt=""/>
+      <caption webpage="overview-" alt=""/>
+      <caption webpage="overview-" alt=""/>
+      <caption webpage="overview-" alt=""/>
       <caption webpage="schedule-" alt=""/>
       <caption webpage="schedule-" alt=""/>
       <caption webpage="schedule-" alt=""/>
       <caption webpage="schedule-" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="photos" alt=""/>
+      <caption webpage="photos" alt=""/>
+      <caption webpage="photos" alt=""/>
+      <caption webpage="photos" alt=""/>
+      <caption webpage="invitation" alt=""/>
+      <caption webpage="invitation" alt=""/>
+      <caption webpage="invitation" alt=""/>
+      <caption webpage="invitation" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
     </file>
-    <file name="imgbanner2.jpg" crc="3965064667" seo="true" ref="index:overview-:invitation:schedule-:lodging:location:register:about-us:photos">
-      <caption webpage="photos" alt=""/>
+    <file name="banner-3.jpg" crc="488179002" seo="true" ref="index:overview-:invitation:schedule-:lodging:location:register:about-us:photos">
       <caption webpage="register" alt=""/>
-      <caption webpage="overview-" alt=""/>
       <caption webpage="location" alt=""/>
       <caption webpage="lodging" alt=""/>
-      <caption webpage="invitation" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="schedule-" alt=""/>
-    </file>
-    <file name="imgrachmainoff428x294.jpg" crc="292904529" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="imgbanner3.jpg" crc="3891008297" seo="true" ref="index:overview-:invitation:schedule-:lodging:location:register:about-us:photos">
-      <caption webpage="photos" alt=""/>
-      <caption webpage="register" alt=""/>
       <caption webpage="overview-" alt=""/>
+      <caption webpage="schedule-" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="photos" alt=""/>
+      <caption webpage="invitation" alt=""/>
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="banner-2.jpg" crc="154965885" seo="true" ref="index:overview-:invitation:schedule-:lodging:location:register:about-us:photos">
+      <caption webpage="register" alt=""/>
       <caption webpage="location" alt=""/>
       <caption webpage="lodging" alt=""/>
-      <caption webpage="invitation" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="schedule-" alt=""/>
-    </file>
-    <file name="imgrachmainoff418x288.jpg" crc="435736817" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="imgbanner4.jpg" crc="53949264" seo="true" ref="index:overview-:invitation:schedule-:lodging:location:register:about-us:photos">
-      <caption webpage="photos" alt=""/>
-      <caption webpage="register" alt=""/>
       <caption webpage="overview-" alt=""/>
+      <caption webpage="schedule-" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="photos" alt=""/>
+      <caption webpage="invitation" alt=""/>
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="banner-1.jpg" crc="257878175" seo="true" ref="index:overview-:invitation:schedule-:lodging:location:register:about-us:photos">
+      <caption webpage="register" alt=""/>
       <caption webpage="location" alt=""/>
       <caption webpage="lodging" alt=""/>
-      <caption webpage="invitation" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="about-us" alt=""/>
+      <caption webpage="overview-" alt=""/>
       <caption webpage="schedule-" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="photos" alt=""/>
+      <caption webpage="invitation" alt=""/>
+      <caption webpage="about-us" alt=""/>
     </file>
     <file name="menupng.png" crc="4127960681" seo="true" ref="index:overview-:invitation:schedule-:lodging:location:register:about-us:photos">
-      <caption webpage="photos" alt=""/>
       <caption webpage="register" alt=""/>
-      <caption webpage="overview-" alt=""/>
       <caption webpage="location" alt=""/>
       <caption webpage="lodging" alt=""/>
-      <caption webpage="invitation" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="about-us" alt=""/>
+      <caption webpage="overview-" alt=""/>
       <caption webpage="schedule-" alt=""/>
-    </file>
-    <file name="imgrachmainoff373x257.jpg" crc="160786100" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="photos" alt=""/>
+      <caption webpage="invitation" alt=""/>
+      <caption webpage="about-us" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:overview-:invitation:schedule-:lodging:location:register:about-us:photos"/>
     <file name="imgoverview1.jpg" crc="4051699907" seo="true" ref="overview-">
@@ -162,7 +157,7 @@
       <caption webpage="overview-" alt=""/>
       <caption webpage="overview-" alt=""/>
     </file>
-    <file name="imgoverview2.jpg" crc="3766449974" seo="true" ref="overview-">
+    <file name="imgoverview2.jpg" crc="52224678" seo="true" ref="overview-">
       <caption webpage="overview-" alt=""/>
       <caption webpage="overview-" alt=""/>
       <caption webpage="overview-" alt=""/>
@@ -180,17 +175,17 @@
       <caption webpage="schedule-" alt=""/>
       <caption webpage="schedule-" alt=""/>
     </file>
-    <file name="imgschedule2.jpg" crc="3780810095" seo="true" ref="schedule-">
+    <file name="imgschedule2.jpg" crc="324427977" seo="true" ref="schedule-">
       <caption webpage="schedule-" alt=""/>
       <caption webpage="schedule-" alt=""/>
     </file>
-    <file name="imgschedule2600x161.jpg" crc="431546561" seo="true" ref="schedule-">
+    <file name="imgschedule2600x161.jpg" crc="517379614" seo="true" ref="schedule-">
       <caption webpage="schedule-" alt=""/>
     </file>
-    <file name="imgschedule2470x126.jpg" crc="4100966722" seo="true" ref="schedule-">
+    <file name="imgschedule2470x126.jpg" crc="3810727338" seo="true" ref="schedule-">
       <caption webpage="schedule-" alt=""/>
     </file>
-    <file name="imglodging.jpg" crc="205876875" seo="true" ref="lodging">
+    <file name="imglodging1.jpg" crc="4121115779" seo="true" ref="lodging">
       <caption webpage="lodging" alt=""/>
       <caption webpage="lodging" alt=""/>
       <caption webpage="lodging" alt=""/>
@@ -286,25 +281,25 @@
       <caption webpage="about-us" alt=""/>
       <caption webpage="about-us" alt=""/>
     </file>
-    <file name="imgphotos1.jpg" crc="3961822352" seo="true" ref="photos">
+    <file name="imgphotos2.jpg" crc="3889716260" seo="true" ref="photos">
       <caption webpage="photos" alt=""/>
       <caption webpage="photos" alt=""/>
       <caption webpage="photos" alt=""/>
       <caption webpage="photos" alt=""/>
     </file>
-    <file name="imgphotos2.jpg" crc="277735001" seo="true" ref="photos">
+    <file name="imgphotos3.jpg" crc="183213506" seo="true" ref="photos">
       <caption webpage="photos" alt=""/>
       <caption webpage="photos" alt=""/>
       <caption webpage="photos" alt=""/>
       <caption webpage="photos" alt=""/>
     </file>
-    <file name="imgphotos3.jpg" crc="308627167" seo="true" ref="photos">
+    <file name="imgphotos4.jpg" crc="466524764" seo="true" ref="photos">
       <caption webpage="photos" alt=""/>
       <caption webpage="photos" alt=""/>
       <caption webpage="photos" alt=""/>
       <caption webpage="photos" alt=""/>
     </file>
-    <file name="imgphotos4.jpg" crc="380283753" seo="true" ref="photos">
+    <file name="imgphotos5.jpg" crc="3839582261" seo="true" ref="photos">
       <caption webpage="photos" alt=""/>
       <caption webpage="photos" alt=""/>
       <caption webpage="photos" alt=""/>
@@ -316,47 +311,49 @@
       <caption webpage="photos" alt=""/>
       <caption webpage="photos" alt=""/>
     </file>
-    <file name="imgphotos6.jpg" crc="483243732" seo="true" ref="photos">
-      <caption webpage="photos" alt=""/>
-      <caption webpage="photos" alt=""/>
-      <caption webpage="photos" alt=""/>
-    </file>
-    <file name="imgphotos7.jpg" crc="511878402" seo="true" ref="photos">
-      <caption webpage="photos" alt=""/>
-      <caption webpage="photos" alt=""/>
-      <caption webpage="photos" alt=""/>
-    </file>
-    <file name="imgphotos8.jpg" crc="3853909345" seo="true" ref="photos">
+    <file name="imgphotos6.jpg" crc="4127840308" seo="true" ref="photos">
       <caption webpage="photos" alt=""/>
       <caption webpage="photos" alt=""/>
       <caption webpage="photos" alt=""/>
       <caption webpage="photos" alt=""/>
     </file>
-    <file name="imgphotos9.jpg" crc="4238842358" seo="true" ref="photos">
+    <file name="imgphotos7.jpg" crc="461797269" seo="true" ref="photos">
       <caption webpage="photos" alt=""/>
       <caption webpage="photos" alt=""/>
       <caption webpage="photos" alt=""/>
       <caption webpage="photos" alt=""/>
     </file>
-    <file name="imgphotos10.jpg" crc="4184974086" seo="true" ref="photos">
+    <file name="imgphotos8.jpg" crc="166087366" seo="true" ref="photos">
       <caption webpage="photos" alt=""/>
       <caption webpage="photos" alt=""/>
       <caption webpage="photos" alt=""/>
       <caption webpage="photos" alt=""/>
     </file>
-    <file name="imgphotos11.jpg" crc="5846049" seo="true" ref="photos">
+    <file name="imgphotos9.jpg" crc="3834468275" seo="true" ref="photos">
       <caption webpage="photos" alt=""/>
       <caption webpage="photos" alt=""/>
       <caption webpage="photos" alt=""/>
       <caption webpage="photos" alt=""/>
     </file>
-    <file name="imgphotos12.jpg" crc="155605373" seo="true" ref="photos">
+    <file name="imgphotos10.jpg" crc="3960430692" seo="true" ref="photos">
       <caption webpage="photos" alt=""/>
       <caption webpage="photos" alt=""/>
       <caption webpage="photos" alt=""/>
       <caption webpage="photos" alt=""/>
     </file>
-    <file name="imgphotos13.jpg" crc="4068324495" seo="true" ref="photos">
+    <file name="imgphotos11.jpg" crc="3806458732" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+      <caption webpage="photos" alt=""/>
+      <caption webpage="photos" alt=""/>
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="imgphotos12.jpg" crc="261476856" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+      <caption webpage="photos" alt=""/>
+      <caption webpage="photos" alt=""/>
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="imgphotos13.jpg" crc="4067381912" seo="true" ref="photos">
       <caption webpage="photos" alt=""/>
       <caption webpage="photos" alt=""/>
       <caption webpage="photos" alt=""/>
@@ -368,62 +365,68 @@
       <caption webpage="photos" alt=""/>
       <caption webpage="photos" alt=""/>
     </file>
-    <file name="imgphotos15.jpg" crc="4085257256" seo="true" ref="photos">
+    <file name="imgphotos14b.jpg" crc="293338552" seo="true" ref="photos">
       <caption webpage="photos" alt=""/>
       <caption webpage="photos" alt=""/>
       <caption webpage="photos" alt=""/>
       <caption webpage="photos" alt=""/>
     </file>
-    <file name="imgphotos16.jpg" crc="4169737644" seo="true" ref="photos">
+    <file name="imgphotos15.jpg" crc="184297349" seo="true" ref="photos">
       <caption webpage="photos" alt=""/>
       <caption webpage="photos" alt=""/>
       <caption webpage="photos" alt=""/>
       <caption webpage="photos" alt=""/>
     </file>
-    <file name="imgphotos17.jpg" crc="4278868671" seo="true" ref="photos">
+    <file name="imgphotos16.jpg" crc="446754813" seo="true" ref="photos">
       <caption webpage="photos" alt=""/>
       <caption webpage="photos" alt=""/>
       <caption webpage="photos" alt=""/>
       <caption webpage="photos" alt=""/>
     </file>
-    <file name="imgphotos18.jpg" crc="102511955" seo="true" ref="photos">
+    <file name="imgphotos17.jpg" crc="4135722659" seo="true" ref="photos">
       <caption webpage="photos" alt=""/>
       <caption webpage="photos" alt=""/>
       <caption webpage="photos" alt=""/>
       <caption webpage="photos" alt=""/>
     </file>
-    <file name="imgphotos19.jpg" crc="3809601138" seo="true" ref="photos">
+    <file name="imgphotos18.jpg" crc="89054185" seo="true" ref="photos">
       <caption webpage="photos" alt=""/>
       <caption webpage="photos" alt=""/>
       <caption webpage="photos" alt=""/>
       <caption webpage="photos" alt=""/>
     </file>
-    <file name="imgphotos20.jpg" crc="4076558314" seo="true" ref="photos">
+    <file name="imgphotos19.jpg" crc="4100163054" seo="true" ref="photos">
       <caption webpage="photos" alt=""/>
       <caption webpage="photos" alt=""/>
       <caption webpage="photos" alt=""/>
       <caption webpage="photos" alt=""/>
     </file>
-    <file name="imgphotos21.jpg" crc="4040435133" seo="true" ref="photos">
+    <file name="imgphotos20.jpg" crc="467192938" seo="true" ref="photos">
       <caption webpage="photos" alt=""/>
       <caption webpage="photos" alt=""/>
       <caption webpage="photos" alt=""/>
       <caption webpage="photos" alt=""/>
     </file>
-    <file name="imgphotos6-crop-u22867.jpg" crc="4182596561" seo="true" ref="photos">
+    <file name="imgphotos21.jpg" crc="318068729" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+      <caption webpage="photos" alt=""/>
+      <caption webpage="photos" alt=""/>
       <caption webpage="photos" alt=""/>
     </file>
-    <file name="imgphotos7-crop-u22883.jpg" crc="4147140478" seo="true" ref="photos">
+    <file name="imgphotos222.jpg" crc="3928138142" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+      <caption webpage="photos" alt=""/>
+      <caption webpage="photos" alt=""/>
       <caption webpage="photos" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="438795514" seo="true" mt="1514827842621" redirect="true"/>
-  <file name="overview-.html" crc="41895854" seo="true" mt="1514827842621" redirect="true"/>
-  <file name="invitation.html" crc="503611301" seo="true" mt="1514827842621" redirect="true"/>
-  <file name="schedule-.html" crc="4190454030" seo="true" mt="1514827842621" redirect="true"/>
-  <file name="lodging.html" crc="3771116194" seo="true" mt="1514827842621" redirect="true"/>
-  <file name="location.html" crc="186940340" seo="true" mt="1514827842621" redirect="true"/>
-  <file name="register.html" crc="3913034936" seo="true" mt="1514827842621" redirect="true"/>
-  <file name="about-us.html" crc="4033735448" seo="true" mt="1514827842621" redirect="true"/>
-  <file name="photos.html" crc="53463584" seo="true" mt="1514827842621" redirect="true"/>
+  <file name="index.html" crc="3763997540" seo="true" mt="1543881673044" redirect="true"/>
+  <file name="overview-.html" crc="215735735" seo="true" mt="1543881673044" redirect="true"/>
+  <file name="invitation.html" crc="3800778537" seo="true" mt="1543881673044" redirect="true"/>
+  <file name="schedule-.html" crc="266322604" seo="true" mt="1543881673044" redirect="true"/>
+  <file name="lodging.html" crc="4248123273" seo="true" mt="1544124335072" redirect="true"/>
+  <file name="location.html" crc="4284293887" seo="true" mt="1543881673044" redirect="true"/>
+  <file name="register.html" crc="3923328292" seo="true" mt="1544118105935" redirect="true"/>
+  <file name="about-us.html" crc="4276836782" seo="true" mt="1543881673044" redirect="true"/>
+  <file name="photos.html" crc="4201688591" seo="true" mt="1544385643839" redirect="true"/>
 </manifest>

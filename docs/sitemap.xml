@@ -2,143 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://cmw-site.org/index.html</loc>
-    <lastmod>2018-01-01</lastmod>
+    <lastmod>2018-12-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://cmw-site.org/images/imgbanner1.jpg</image:loc>
+      <image:loc>http://cmw-site.org/images/banner-4.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://cmw-site.org/images/imgrachmainoff486x334.jpg</image:loc>
+      <image:loc>http://cmw-site.org/images/imgbrahms1.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://cmw-site.org/images/facebook.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://cmw-site.org/images/imgbanner2.jpg</image:loc>
+      <image:loc>http://cmw-site.org/images/banner-3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://cmw-site.org/images/imgrachmainoff428x294.jpg</image:loc>
+      <image:loc>http://cmw-site.org/images/banner-2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://cmw-site.org/images/imgbanner3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/imgrachmainoff418x288.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/imgbanner4.jpg</image:loc>
+      <image:loc>http://cmw-site.org/images/banner-1.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://cmw-site.org/images/menupng.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/imgrachmainoff373x257.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://cmw-site.org/lodging.html</loc>
-    <lastmod>2018-01-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/imgbanner1.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/facebook.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/imgbanner2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/imgbanner3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/imgbanner4.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/menupng.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/imglodging.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://cmw-site.org/overview-.html</loc>
-    <lastmod>2018-01-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/imgbanner1.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/facebook.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/imgbanner2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/imgbanner3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/imgbanner4.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/menupng.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/imgoverview1.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/imgoverview2.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://cmw-site.org/invitation.html</loc>
-    <lastmod>2018-01-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/imgbanner1.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/facebook.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/imgbanner2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/imgbanner3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/imgbanner4.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/menupng.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/imginvitation.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://cmw-site.org/schedule-.html</loc>
-    <lastmod>2018-01-01</lastmod>
+    <lastmod>2018-12-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://cmw-site.org/images/imgbanner1.jpg</image:loc>
+      <image:loc>http://cmw-site.org/images/banner-4.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://cmw-site.org/images/facebook.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://cmw-site.org/images/imgbanner2.jpg</image:loc>
+      <image:loc>http://cmw-site.org/images/banner-3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://cmw-site.org/images/imgbanner3.jpg</image:loc>
+      <image:loc>http://cmw-site.org/images/banner-2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://cmw-site.org/images/imgbanner4.jpg</image:loc>
+      <image:loc>http://cmw-site.org/images/banner-1.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://cmw-site.org/images/menupng.png</image:loc>
@@ -157,87 +64,132 @@
     </image:image>
   </url>
   <url>
-    <loc>http://cmw-site.org/register.html</loc>
-    <lastmod>2018-01-01</lastmod>
+    <loc>http://cmw-site.org/lodging.html</loc>
+    <lastmod>2018-12-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://cmw-site.org/images/imgbanner1.jpg</image:loc>
+      <image:loc>http://cmw-site.org/images/banner-4.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://cmw-site.org/images/facebook.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://cmw-site.org/images/imgbanner2.jpg</image:loc>
+      <image:loc>http://cmw-site.org/images/banner-3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://cmw-site.org/images/imgbanner3.jpg</image:loc>
+      <image:loc>http://cmw-site.org/images/banner-2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://cmw-site.org/images/imgbanner4.jpg</image:loc>
+      <image:loc>http://cmw-site.org/images/banner-1.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://cmw-site.org/images/menupng.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/imglodging1.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://cmw-site.org/location.html</loc>
-    <lastmod>2018-01-01</lastmod>
+    <loc>http://cmw-site.org/overview-.html</loc>
+    <lastmod>2018-12-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://cmw-site.org/images/imgbanner1.jpg</image:loc>
+      <image:loc>http://cmw-site.org/images/banner-4.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://cmw-site.org/images/facebook.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://cmw-site.org/images/imgbanner2.jpg</image:loc>
+      <image:loc>http://cmw-site.org/images/banner-3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://cmw-site.org/images/imgbanner3.jpg</image:loc>
+      <image:loc>http://cmw-site.org/images/banner-2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://cmw-site.org/images/imgbanner4.jpg</image:loc>
+      <image:loc>http://cmw-site.org/images/banner-1.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://cmw-site.org/images/menupng.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://cmw-site.org/images/imglocation1.png</image:loc>
+      <image:loc>http://cmw-site.org/images/imgoverview1.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://cmw-site.org/images/imglocaton2.jpg</image:loc>
+      <image:loc>http://cmw-site.org/images/imgoverview2.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://cmw-site.org/invitation.html</loc>
+    <lastmod>2018-12-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/banner-4.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://cmw-site.org/images/imglocation3.jpg</image:loc>
+      <image:loc>http://cmw-site.org/images/facebook.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://cmw-site.org/images/location3map.jpg</image:loc>
+      <image:loc>http://cmw-site.org/images/banner-3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://cmw-site.org/images/imglocaton2-crop-u19005.jpg</image:loc>
+      <image:loc>http://cmw-site.org/images/banner-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/banner-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/menupng.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/imginvitation.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://cmw-site.org/register.html</loc>
+    <lastmod>2018-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/banner-4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/facebook.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/banner-3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/banner-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/banner-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/menupng.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://cmw-site.org/about-us.html</loc>
-    <lastmod>2018-01-01</lastmod>
+    <lastmod>2018-12-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://cmw-site.org/images/imgbanner1.jpg</image:loc>
+      <image:loc>http://cmw-site.org/images/banner-4.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://cmw-site.org/images/facebook.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://cmw-site.org/images/imgbanner2.jpg</image:loc>
+      <image:loc>http://cmw-site.org/images/banner-3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://cmw-site.org/images/imgbanner3.jpg</image:loc>
+      <image:loc>http://cmw-site.org/images/banner-2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://cmw-site.org/images/imgbanner4.jpg</image:loc>
+      <image:loc>http://cmw-site.org/images/banner-1.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://cmw-site.org/images/menupng.png</image:loc>
@@ -286,30 +238,66 @@
     </image:image>
   </url>
   <url>
-    <loc>http://cmw-site.org/photos.html</loc>
-    <lastmod>2018-01-01</lastmod>
+    <loc>http://cmw-site.org/location.html</loc>
+    <lastmod>2018-12-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://cmw-site.org/images/imgbanner1.jpg</image:loc>
+      <image:loc>http://cmw-site.org/images/banner-4.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://cmw-site.org/images/facebook.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://cmw-site.org/images/imgbanner2.jpg</image:loc>
+      <image:loc>http://cmw-site.org/images/banner-3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://cmw-site.org/images/imgbanner3.jpg</image:loc>
+      <image:loc>http://cmw-site.org/images/banner-2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://cmw-site.org/images/imgbanner4.jpg</image:loc>
+      <image:loc>http://cmw-site.org/images/banner-1.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://cmw-site.org/images/menupng.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://cmw-site.org/images/imgphotos1.jpg</image:loc>
+      <image:loc>http://cmw-site.org/images/imglocation1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/imglocaton2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/imglocation3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/location3map.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/imglocaton2-crop-u19005.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://cmw-site.org/photos.html</loc>
+    <lastmod>2018-12-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/banner-4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/facebook.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/banner-3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/banner-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/banner-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/menupng.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://cmw-site.org/images/imgphotos2.jpg</image:loc>
@@ -319,6 +307,9 @@
     </image:image>
     <image:image>
       <image:loc>http://cmw-site.org/images/imgphotos4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/imgphotos5.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://cmw-site.org/images/imgphotos22.jpg</image:loc>
@@ -351,6 +342,9 @@
       <image:loc>http://cmw-site.org/images/imgphotos14.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://cmw-site.org/images/imgphotos14b.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://cmw-site.org/images/imgphotos15.jpg</image:loc>
     </image:image>
     <image:image>
@@ -372,15 +366,18 @@
       <image:loc>http://cmw-site.org/images/imgphotos21.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://cmw-site.org/images/imgphotos6-crop-u22867.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/imgphotos7-crop-u22883.jpg</image:loc>
+      <image:loc>http://cmw-site.org/images/imgphotos222.jpg</image:loc>
     </image:image>
   </url>
   <url>
+    <loc>http://cmw-site.org/assets/cmw19registration.pdf</loc>
+    <lastmod>2018-11-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://cmw-site.org/assets/cmw18registration.pdf</loc>
-    <lastmod>2017-12-06</lastmod>
+    <lastmod>2018-11-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
