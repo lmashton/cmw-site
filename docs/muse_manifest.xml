@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cmw-site.org" resolutions="1x" timestamp="1574374094886">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cmw-site.org" resolutions="1x" timestamp="1574375868995">
   <folder name="css">
     <file name="site_global.css" crc="4081137866"/>
     <file name="master_a-master.css" crc="281027195" ref="index:overview-:location:invitation:photos:schedule-:register:lodging:about-us"/>
@@ -15,8 +15,8 @@
     <file name="nomq_photos.css" crc="156825952" ref="photos"/>
     <file name="schedule-.css" crc="321424450" ref="schedule-"/>
     <file name="nomq_schedule-.css" crc="3908865515" ref="schedule-"/>
-    <file name="register.css" crc="356647257" ref="register"/>
-    <file name="nomq_register.css" crc="3814887850" ref="register"/>
+    <file name="register.css" crc="3841499224" ref="register"/>
+    <file name="nomq_register.css" crc="381429664" ref="register"/>
     <file name="lodging.css" crc="156337684" ref="lodging"/>
     <file name="nomq_lodging.css" crc="3788782696" ref="lodging"/>
     <file name="about-us.css" crc="182496349" ref="about-us"/>
@@ -446,7 +446,7 @@
   <file name="schedule-.html" crc="462690193" seo="true" mt="1574099265016" redirect="true"/>
   <file name="lodging.html" crc="4191297855" seo="true" mt="1574373444612" redirect="true"/>
   <file name="location.html" crc="500145223" seo="true" mt="1574099373112" redirect="true"/>
-  <file name="register.html" crc="122229069" seo="true" mt="1574374065861" redirect="true"/>
+  <file name="register.html" crc="241812783" seo="true" mt="1574375844340" redirect="true"/>
   <file name="about-us.html" crc="4099156322" seo="true" mt="1570461632408" redirect="true"/>
   <file name="photos.html" crc="37982164" seo="true" mt="1574369230863" redirect="true"/>
 </manifest>
