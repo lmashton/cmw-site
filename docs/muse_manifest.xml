@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cmw-site.org" resolutions="1x" timestamp="1588621750314">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cmw-site.org" resolutions="1x" timestamp="1588624773334">
   <folder name="css">
     <file name="site_global.css" crc="4115228098"/>
     <file name="master_a-master.css" crc="4260960397" ref="index:overview-:location:invitation:photos:schedule-:register:lodging:about-us"/>
     <file name="nomq_preview_master_a-master.css" crc="336649935" ref="index:overview-:location:invitation:photos:schedule-:register:lodging:about-us"/>
-    <file name="index.css" crc="4177895621" ref="index"/>
-    <file name="nomq_index.css" crc="4130677121" ref="index"/>
+    <file name="index.css" crc="125691005" ref="index"/>
+    <file name="nomq_index.css" crc="405305896" ref="index"/>
     <file name="overview-.css" crc="89255432" ref="overview-"/>
     <file name="nomq_overview-.css" crc="4042120827" ref="overview-"/>
     <file name="location.css" crc="116274770" ref="location"/>
@@ -544,7 +544,7 @@
       <caption webpage="overview-" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4208001264" seo="true" mt="1588621724480" redirect="true"/>
+  <file name="index.html" crc="4175047069" seo="true" mt="1588624664959" redirect="true"/>
   <file name="overview-.html" crc="4043911731" seo="true" mt="1588620326464" redirect="true"/>
   <file name="invitation.html" crc="433689283" seo="true" mt="1588620326464" redirect="true"/>
   <file name="schedule-.html" crc="246923121" seo="true" mt="1588620326464" redirect="true"/>
