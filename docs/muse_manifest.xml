@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cmw-site.org" resolutions="1x" timestamp="1591381261572">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cmw-site.org" resolutions="1x" timestamp="1591381428125">
   <folder name="css">
     <file name="site_global.css" crc="4115228098"/>
-    <file name="master_a-master.css" crc="230770489" ref="index:overview-:location:invitation:photos:schedule-:register:lodging:about-us:repertoire:summer2020-"/>
+    <file name="master_a-master.css" crc="324456296" ref="index:overview-:location:invitation:photos:schedule-:register:lodging:about-us:repertoire:summer2020-"/>
     <file name="nomq_preview_master_a-master.css" crc="40828480" ref="index:overview-:location:invitation:photos:schedule-:register:lodging:about-us:repertoire:summer2020-"/>
     <file name="index.css" crc="416423638" ref="index"/>
     <file name="nomq_index.css" crc="80434452" ref="index"/>
@@ -48,18 +48,18 @@
     <file name="html5shiv.js" crc="4241844378" ref="index:overview-:invitation:schedule-:lodging:location:register:about-us:photos:repertoire:summer2020-"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="492783890" ref="index"/>
+    <file name="favicon.ico" crc="492783890" ref="index:summer2020-"/>
     <file name="banner960.jpg" crc="327537522" seo="true" ref="index:overview-:invitation:schedule-:lodging:location:register:about-us:photos:repertoire:summer2020-">
-      <caption webpage="summer2020-" alt=""/>
-      <caption webpage="summer2020-" alt=""/>
+      <caption webpage="photos" alt=""/>
+      <caption webpage="photos" alt=""/>
       <caption webpage="lodging" alt=""/>
       <caption webpage="lodging" alt=""/>
       <caption webpage="location" alt=""/>
       <caption webpage="location" alt=""/>
       <caption webpage="overview-" alt=""/>
       <caption webpage="overview-" alt=""/>
-      <caption webpage="repertoire" alt=""/>
-      <caption webpage="repertoire" alt=""/>
+      <caption webpage="summer2020" alt=""/>
+      <caption webpage="summer2020" alt=""/>
       <caption webpage="register" alt=""/>
       <caption webpage="register" alt=""/>
       <caption webpage="index" alt=""/>
@@ -70,10 +70,10 @@
       <caption webpage="invitation" alt=""/>
       <caption webpage="about-us" alt=""/>
       <caption webpage="about-us" alt=""/>
-      <caption webpage="summer2020" alt=""/>
-      <caption webpage="summer2020" alt=""/>
-      <caption webpage="photos" alt=""/>
-      <caption webpage="photos" alt=""/>
+      <caption webpage="repertoire" alt=""/>
+      <caption webpage="repertoire" alt=""/>
+      <caption webpage="summer2020-" alt=""/>
+      <caption webpage="summer2020-" alt=""/>
     </file>
     <file name="index1.jpg" crc="4050101478" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -82,9 +82,9 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="facebook.png" crc="3852252585" seo="true" ref="index:overview-:invitation:schedule-:lodging:location:register:about-us:photos:repertoire:summer2020-">
-      <caption webpage="summer2020-" alt=""/>
-      <caption webpage="summer2020-" alt=""/>
-      <caption webpage="summer2020-" alt=""/>
+      <caption webpage="photos" alt=""/>
+      <caption webpage="photos" alt=""/>
+      <caption webpage="photos" alt=""/>
       <caption webpage="lodging" alt=""/>
       <caption webpage="lodging" alt=""/>
       <caption webpage="lodging" alt=""/>
@@ -94,9 +94,9 @@
       <caption webpage="overview-" alt=""/>
       <caption webpage="overview-" alt=""/>
       <caption webpage="overview-" alt=""/>
-      <caption webpage="repertoire" alt=""/>
-      <caption webpage="repertoire" alt=""/>
-      <caption webpage="repertoire" alt=""/>
+      <caption webpage="summer2020" alt=""/>
+      <caption webpage="summer2020" alt=""/>
+      <caption webpage="summer2020" alt=""/>
       <caption webpage="register" alt=""/>
       <caption webpage="register" alt=""/>
       <caption webpage="register" alt=""/>
@@ -112,55 +112,55 @@
       <caption webpage="about-us" alt=""/>
       <caption webpage="about-us" alt=""/>
       <caption webpage="about-us" alt=""/>
-      <caption webpage="summer2020" alt=""/>
-      <caption webpage="summer2020" alt=""/>
-      <caption webpage="summer2020" alt=""/>
-      <caption webpage="photos" alt=""/>
-      <caption webpage="photos" alt=""/>
-      <caption webpage="photos" alt=""/>
+      <caption webpage="repertoire" alt=""/>
+      <caption webpage="repertoire" alt=""/>
+      <caption webpage="repertoire" alt=""/>
+      <caption webpage="summer2020-" alt=""/>
+      <caption webpage="summer2020-" alt=""/>
+      <caption webpage="summer2020-" alt=""/>
     </file>
     <file name="banner768.jpg" crc="3897962455" seo="true" ref="index:overview-:invitation:schedule-:lodging:location:register:about-us:photos:repertoire:summer2020-">
-      <caption webpage="summer2020-" alt=""/>
+      <caption webpage="photos" alt=""/>
       <caption webpage="lodging" alt=""/>
       <caption webpage="location" alt=""/>
       <caption webpage="overview-" alt=""/>
-      <caption webpage="repertoire" alt=""/>
+      <caption webpage="summer2020" alt=""/>
       <caption webpage="register" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="schedule-" alt=""/>
       <caption webpage="invitation" alt=""/>
       <caption webpage="about-us" alt=""/>
-      <caption webpage="summer2020" alt=""/>
-      <caption webpage="photos" alt=""/>
+      <caption webpage="repertoire" alt=""/>
+      <caption webpage="summer2020-" alt=""/>
     </file>
     <file name="banner600.jpg" crc="4286313976" seo="true" ref="index:overview-:invitation:schedule-:lodging:location:register:about-us:photos:repertoire:summer2020-">
-      <caption webpage="summer2020-" alt=""/>
+      <caption webpage="photos" alt=""/>
       <caption webpage="lodging" alt=""/>
       <caption webpage="location" alt=""/>
       <caption webpage="overview-" alt=""/>
-      <caption webpage="repertoire" alt=""/>
+      <caption webpage="summer2020" alt=""/>
       <caption webpage="register" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="schedule-" alt=""/>
       <caption webpage="invitation" alt=""/>
       <caption webpage="about-us" alt=""/>
-      <caption webpage="summer2020" alt=""/>
-      <caption webpage="photos" alt=""/>
+      <caption webpage="repertoire" alt=""/>
+      <caption webpage="summer2020-" alt=""/>
     </file>
     <file name="banner470.jpg" crc="4082401214" seo="true" ref="index:overview-:invitation:schedule-:lodging:location:register:about-us:photos:repertoire:summer2020-">
-      <caption webpage="summer2020-" alt=""/>
+      <caption webpage="photos" alt=""/>
       <caption webpage="lodging" alt=""/>
       <caption webpage="location" alt=""/>
       <caption webpage="overview-" alt=""/>
-      <caption webpage="repertoire" alt=""/>
-      <caption webpage="repertoire" alt=""/>
+      <caption webpage="summer2020" alt=""/>
       <caption webpage="register" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="schedule-" alt=""/>
       <caption webpage="invitation" alt=""/>
       <caption webpage="about-us" alt=""/>
-      <caption webpage="summer2020" alt=""/>
-      <caption webpage="photos" alt=""/>
+      <caption webpage="repertoire" alt=""/>
+      <caption webpage="repertoire" alt=""/>
+      <caption webpage="summer2020-" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:overview-:invitation:schedule-:lodging:location:register:about-us:photos:repertoire:summer2020-"/>
     <file name="imgoverview1.jpg" crc="4051699907" seo="true" ref="overview-">
@@ -456,18 +456,18 @@
       <caption webpage="photos" alt=""/>
     </file>
     <file name="banner320.jpg" crc="4125948271" seo="true" ref="index:overview-:invitation:schedule-:lodging:location:register:about-us:photos:repertoire:summer2020-">
-      <caption webpage="summer2020-" alt=""/>
+      <caption webpage="photos" alt=""/>
       <caption webpage="lodging" alt=""/>
       <caption webpage="location" alt=""/>
       <caption webpage="overview-" alt=""/>
-      <caption webpage="repertoire" alt=""/>
+      <caption webpage="summer2020" alt=""/>
       <caption webpage="register" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="schedule-" alt=""/>
       <caption webpage="invitation" alt=""/>
       <caption webpage="about-us" alt=""/>
-      <caption webpage="summer2020" alt=""/>
-      <caption webpage="photos" alt=""/>
+      <caption webpage="repertoire" alt=""/>
+      <caption webpage="summer2020-" alt=""/>
     </file>
     <file name="index1304x206.jpg" crc="4233230157" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -541,7 +541,7 @@
     <file name="photos21258x173.jpg" crc="3812554620" seo="true" ref="photos">
       <caption webpage="photos" alt=""/>
     </file>
-    <file name="arrowmenudown.png" crc="262559161" ref="index">
+    <file name="arrowmenudown.png" crc="262559161" ref="index:summer2020-">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -563,19 +563,27 @@
       <caption webpage="summer2020" alt=""/>
       <caption webpage="summer2020" alt=""/>
       <caption webpage="summer2020" alt=""/>
+      <caption webpage="summer2020-" alt=""/>
+      <caption webpage="summer2020-" alt=""/>
+      <caption webpage="summer2020-" alt=""/>
+      <caption webpage="summer2020-" alt=""/>
+      <caption webpage="summer2020-" alt=""/>
+      <caption webpage="summer2020-" alt=""/>
+      <caption webpage="summer2020-" alt=""/>
+      <caption webpage="summer2020-" alt=""/>
+      <caption webpage="summer2020-" alt=""/>
     </file>
     <file name="menupng.png" crc="4127960681" seo="true" ref="index:overview-:invitation:schedule-:lodging:location:register:about-us:photos:repertoire:summer2020-">
-      <caption webpage="summer2020-" alt=""/>
-      <caption webpage="summer2020-" alt=""/>
+      <caption webpage="photos" alt=""/>
+      <caption webpage="photos" alt=""/>
       <caption webpage="lodging" alt=""/>
       <caption webpage="lodging" alt=""/>
       <caption webpage="location" alt=""/>
       <caption webpage="location" alt=""/>
       <caption webpage="overview-" alt=""/>
       <caption webpage="overview-" alt=""/>
-      <caption webpage="repertoire" alt=""/>
-      <caption webpage="repertoire" alt=""/>
-      <caption webpage="repertoire" alt=""/>
+      <caption webpage="summer2020" alt=""/>
+      <caption webpage="summer2020" alt=""/>
       <caption webpage="register" alt=""/>
       <caption webpage="register" alt=""/>
       <caption webpage="index" alt=""/>
@@ -586,10 +594,11 @@
       <caption webpage="invitation" alt=""/>
       <caption webpage="about-us" alt=""/>
       <caption webpage="about-us" alt=""/>
-      <caption webpage="summer2020" alt=""/>
-      <caption webpage="summer2020" alt=""/>
-      <caption webpage="photos" alt=""/>
-      <caption webpage="photos" alt=""/>
+      <caption webpage="repertoire" alt=""/>
+      <caption webpage="repertoire" alt=""/>
+      <caption webpage="repertoire" alt=""/>
+      <caption webpage="summer2020-" alt=""/>
+      <caption webpage="summer2020-" alt=""/>
     </file>
   </folder>
   <file name="index.html" crc="3826338617" seo="true" mt="1591381032517" redirect="true"/>
@@ -602,5 +611,5 @@
   <file name="about-us.html" crc="3889452307" seo="true" mt="1591381032517" redirect="true"/>
   <file name="photos.html" crc="410860739" seo="true" mt="1591381032517" redirect="true"/>
   <file name="repertoire.html" crc="353018112" seo="true" mt="1591381032517" redirect="true"/>
-  <file name="summer2020-.html" crc="325055126" seo="true" mt="1591381175218" redirect="true"/>
+  <file name="summer2020-.html" crc="300275612" seo="true" mt="1591381404336" redirect="true"/>
 </manifest>
