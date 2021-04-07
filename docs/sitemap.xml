@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://cmw-site.org/index.html</loc>
-    <lastmod>2021-03-10</lastmod>
+    <lastmod>2021-04-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -16,9 +16,6 @@
     </image:image>
     <image:image>
       <image:loc>http://cmw-site.org/images/banner600.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/banner470.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://cmw-site.org/images/banner320.jpg</image:loc>
@@ -32,10 +29,13 @@
     <image:image>
       <image:loc>http://cmw-site.org/images/quintet600295x222.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/background.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://cmw-site.org/invitation.html</loc>
-    <lastmod>2021-03-10</lastmod>
+    <lastmod>2021-04-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -49,9 +49,6 @@
     </image:image>
     <image:image>
       <image:loc>http://cmw-site.org/images/banner600.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/banner470.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://cmw-site.org/images/imginvitation.jpg</image:loc>
@@ -62,10 +59,13 @@
     <image:image>
       <image:loc>http://cmw-site.org/images/menupng.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/background.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://cmw-site.org/schedule-.html</loc>
-    <lastmod>2021-03-10</lastmod>
+    <lastmod>2021-04-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -79,9 +79,6 @@
     </image:image>
     <image:image>
       <image:loc>http://cmw-site.org/images/banner600.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/banner470.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://cmw-site.org/images/imgschedule1.jpg</image:loc>
@@ -104,10 +101,13 @@
     <image:image>
       <image:loc>http://cmw-site.org/images/menupng.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/background.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://cmw-site.org/about-us.html</loc>
-    <lastmod>2021-03-10</lastmod>
+    <lastmod>2021-04-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -121,9 +121,6 @@
     </image:image>
     <image:image>
       <image:loc>http://cmw-site.org/images/banner600.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/banner470.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://cmw-site.org/images/imgmargie_grace.jpg</image:loc>
@@ -173,10 +170,13 @@
     <image:image>
       <image:loc>http://cmw-site.org/images/menupng.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/background.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://cmw-site.org/register.html</loc>
-    <lastmod>2021-03-10</lastmod>
+    <lastmod>2021-04-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -190,9 +190,6 @@
     </image:image>
     <image:image>
       <image:loc>http://cmw-site.org/images/banner600.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/banner470.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://cmw-site.org/images/banner320.jpg</image:loc>
@@ -200,10 +197,13 @@
     <image:image>
       <image:loc>http://cmw-site.org/images/menupng.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/background.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://cmw-site.org/photos.html</loc>
-    <lastmod>2021-03-10</lastmod>
+    <lastmod>2021-04-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -217,9 +217,6 @@
     </image:image>
     <image:image>
       <image:loc>http://cmw-site.org/images/banner600.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/banner470.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://cmw-site.org/images/photos1.jpg</image:loc>
@@ -374,10 +371,13 @@
     <image:image>
       <image:loc>http://cmw-site.org/images/menupng.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/background.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://cmw-site.org/overview-.html</loc>
-    <lastmod>2021-03-10</lastmod>
+    <lastmod>2021-04-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -391,9 +391,6 @@
     </image:image>
     <image:image>
       <image:loc>http://cmw-site.org/images/banner600.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/banner470.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://cmw-site.org/images/imgoverview1.jpg</image:loc>
@@ -410,10 +407,13 @@
     <image:image>
       <image:loc>http://cmw-site.org/images/menupng.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/background.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://cmw-site.org/lodging.html</loc>
-    <lastmod>2021-03-10</lastmod>
+    <lastmod>2021-04-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -427,9 +427,6 @@
     </image:image>
     <image:image>
       <image:loc>http://cmw-site.org/images/banner600.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/banner470.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://cmw-site.org/images/lodging1.jpg</image:loc>
@@ -440,10 +437,13 @@
     <image:image>
       <image:loc>http://cmw-site.org/images/menupng.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/background.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://cmw-site.org/location.html</loc>
-    <lastmod>2021-03-10</lastmod>
+    <lastmod>2021-04-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -457,9 +457,6 @@
     </image:image>
     <image:image>
       <image:loc>http://cmw-site.org/images/banner600.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/banner470.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://cmw-site.org/images/imglocation1.png</image:loc>
@@ -481,6 +478,9 @@
     </image:image>
     <image:image>
       <image:loc>http://cmw-site.org/images/menupng.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/background.jpg</image:loc>
     </image:image>
   </url>
   <url>
