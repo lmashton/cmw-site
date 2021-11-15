@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://cmw-site.org/index.html</loc>
-    <lastmod>2021-05-21</lastmod>
+    <lastmod>2021-11-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -24,18 +24,57 @@
       <image:loc>http://cmw-site.org/images/menupng.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://cmw-site.org/images/quintet600.jpg</image:loc>
+      <image:loc>http://cmw-site.org/images/banner470.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://cmw-site.org/images/quintet600295x222.jpg</image:loc>
+      <image:loc>http://cmw-site.org/images/home1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/home1296x222.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://cmw-site.org/overview-.html</loc>
+    <lastmod>2021-11-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/banner960.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/facebook.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/banner768.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/banner600.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/imgoverview1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/overview2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/banner320.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/imgoverview1304x164.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/menupng.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://cmw-site.org/images/banner470.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/overview2297x154.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://cmw-site.org/invitation.html</loc>
-    <lastmod>2021-04-07</lastmod>
+    <lastmod>2021-11-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -60,12 +99,12 @@
       <image:loc>http://cmw-site.org/images/menupng.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://cmw-site.org/images/background.jpg</image:loc>
+      <image:loc>http://cmw-site.org/images/banner470.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://cmw-site.org/schedule-.html</loc>
-    <lastmod>2021-04-07</lastmod>
+    <lastmod>2021-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -84,30 +123,21 @@
       <image:loc>http://cmw-site.org/images/imgschedule1.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://cmw-site.org/images/schedule2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/schedule2600x161.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/schedule2470x126.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://cmw-site.org/images/banner320.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/schedule2320x86.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://cmw-site.org/images/menupng.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://cmw-site.org/images/background.jpg</image:loc>
+      <image:loc>http://cmw-site.org/images/banner470.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/orchestravespers.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://cmw-site.org/about-us.html</loc>
-    <lastmod>2021-04-07</lastmod>
+    <lastmod>2021-11-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -171,12 +201,12 @@
       <image:loc>http://cmw-site.org/images/menupng.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://cmw-site.org/images/background.jpg</image:loc>
+      <image:loc>http://cmw-site.org/images/banner470.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://cmw-site.org/register.html</loc>
-    <lastmod>2021-04-07</lastmod>
+    <lastmod>2021-11-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -198,12 +228,12 @@
       <image:loc>http://cmw-site.org/images/menupng.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://cmw-site.org/images/background.jpg</image:loc>
+      <image:loc>http://cmw-site.org/images/banner470.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://cmw-site.org/photos.html</loc>
-    <lastmod>2021-04-07</lastmod>
+    <lastmod>2021-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -225,148 +255,13 @@
       <image:loc>http://cmw-site.org/images/photos2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://cmw-site.org/images/photos3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/photos4.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://cmw-site.org/images/photos5.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/photos6.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/photos7.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/photos8.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/photos9.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/photos10.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/photos11.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/photos12.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/photos13.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/photos14.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/photos15.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/photos16.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/photos17.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/photos18.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/photos22.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/photos19.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/photos20.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/photos21.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/photos3-crop-u27197.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://cmw-site.org/images/photos5-crop-u27396.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://cmw-site.org/images/photos13-crop-u27492.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/photos14-crop-u27524.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/photos15-crop-u27540.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/photos18-crop-u27621.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://cmw-site.org/images/banner320.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/photos1258x173.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/photos2258x173.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/photos3258x172.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/photos4258x173.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/photos5258x173.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/photos6258x173.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/photos7258x173.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/photos8258x173.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/photos9258x173.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/photos10258x173.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/photos11258x173.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/photos12258x173.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/photos13258x173.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/photos14258x173.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/photos15258x173.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/photos17258x173.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/photos18258x173.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/photos22258x173.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/photos19258x173.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/photos20258x173.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cmw-site.org/images/photos21258x173.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://cmw-site.org/images/menupng.png</image:loc>
@@ -374,46 +269,130 @@
     <image:image>
       <image:loc>http://cmw-site.org/images/background.jpg</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://cmw-site.org/overview-.html</loc>
-    <lastmod>2021-04-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
     <image:image>
-      <image:loc>http://cmw-site.org/images/banner960.jpg</image:loc>
+      <image:loc>http://cmw-site.org/images/banner470.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://cmw-site.org/images/facebook.png</image:loc>
+      <image:loc>http://cmw-site.org/images/novak.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://cmw-site.org/images/banner768.jpg</image:loc>
+      <image:loc>http://cmw-site.org/images/concert1.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://cmw-site.org/images/banner600.jpg</image:loc>
+      <image:loc>http://cmw-site.org/images/concert2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://cmw-site.org/images/imgoverview1.jpg</image:loc>
+      <image:loc>http://cmw-site.org/images/chrehearsal.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://cmw-site.org/images/overview2.jpg</image:loc>
+      <image:loc>http://cmw-site.org/images/orchestra2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://cmw-site.org/images/banner320.jpg</image:loc>
+      <image:loc>http://cmw-site.org/images/dinner1.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://cmw-site.org/images/imgoverview1304x164.jpg</image:loc>
+      <image:loc>http://cmw-site.org/images/dinner2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://cmw-site.org/images/menupng.png</image:loc>
+      <image:loc>http://cmw-site.org/images/imgphotos14.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://cmw-site.org/images/background.jpg</image:loc>
+      <image:loc>http://cmw-site.org/images/churchservice1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/churchservice2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/afternoonread.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/finalconcert.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/concert3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/background2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/background3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/mendelssohn1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/mendelssohn.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/mendelssohn600x165.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/mendelssohn470x130.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/photos1296x199.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/photos2296x199.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/background296x199.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/novak296x199.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/photos5-crop-u273962.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/concert1296x199.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/chrehearsal296x199.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/orchestra2296x199.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/dinner1296x199.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/dinner2296x199.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/imgphotos14296x199.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/churchservice1296x199.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/churchservice2296x199.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/finalconcert296x199.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/concert3296x199.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/background296x1992.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/background296x1993.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/mendelssohn1296x199.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/mendelssohn320x88.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cmw-site.org/images/concert2296x199.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://cmw-site.org/lodging.html</loc>
-    <lastmod>2021-04-07</lastmod>
+    <lastmod>2021-11-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -438,12 +417,12 @@
       <image:loc>http://cmw-site.org/images/menupng.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://cmw-site.org/images/background.jpg</image:loc>
+      <image:loc>http://cmw-site.org/images/banner470.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://cmw-site.org/location.html</loc>
-    <lastmod>2021-04-07</lastmod>
+    <lastmod>2021-11-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -480,18 +459,12 @@
       <image:loc>http://cmw-site.org/images/menupng.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://cmw-site.org/images/background.jpg</image:loc>
+      <image:loc>http://cmw-site.org/images/banner470.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://cmw-site.org/assets/cmw19registration.pdf</loc>
-    <lastmod>2018-11-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://cmw-site.org/assets/cmw21registration.pdf</loc>
-    <lastmod>2020-08-31</lastmod>
+    <loc>http://cmw-site.org/assets/cmw22registration.pdf</loc>
+    <lastmod>2021-11-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -502,13 +475,25 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cmw-site.org/assets/cmw20registration-2.pdf</loc>
-    <lastmod>2019-10-07</lastmod>
+    <loc>http://cmw-site.org/assets/cmw19registration.pdf</loc>
+    <lastmod>2018-11-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://cmw-site.org/assets/cmw20registration.pdf</loc>
+    <lastmod>2019-10-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://cmw-site.org/assets/cmw21registration.pdf</loc>
+    <lastmod>2020-08-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://cmw-site.org/assets/cmw20registration-2.pdf</loc>
     <lastmod>2019-10-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
